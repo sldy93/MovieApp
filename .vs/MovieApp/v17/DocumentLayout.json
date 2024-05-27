@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\moviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\movieapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\movieapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\migrations\\20240511033648_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\migrations\\20240511033648_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|d:\\spring 2024\\264-asp\\homework\\q4\\movieapp\\movieapp\\migrations\\20240511032946_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB8B4D-A679-41AB-865A-21AFE790AD7D}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\migrations\\20240511032946_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieApp.csproj",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\MovieApp.csproj",
+              "RelativeDocumentMoniker": "MovieApp\\MovieApp.csproj",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\MovieApp.csproj",
+              "RelativeToolTip": "MovieApp\\MovieApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-11T20:48:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T04:37:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T03:57:12.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA1wBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:13:40.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T03:39:14.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240511033648_SeedData.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Migrations\\20240511033648_SeedData.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Migrations\\20240511033648_SeedData.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Migrations\\20240511033648_SeedData.cs",
+              "RelativeToolTip": "MovieApp\\Migrations\\20240511033648_SeedData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:36:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Models\\SeedData.cs",
+              "RelativeToolTip": "MovieApp\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:33:33.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240511032946_Initial.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Migrations\\20240511032946_Initial.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Migrations\\20240511032946_Initial.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Migrations\\20240511032946_Initial.cs",
+              "RelativeToolTip": "MovieApp\\Migrations\\20240511032946_Initial.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:29:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:24:59.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApp\\appsettings.json",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\appsettings.json",
+              "RelativeToolTip": "MovieApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T03:21:56.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDbContext.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Models\\MovieDbContext.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\MovieDbContext.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Models\\MovieDbContext.cs",
+              "RelativeToolTip": "MovieApp\\Models\\MovieDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBAwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:17:33.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Models\\Movie.cs",
+              "ToolTip": "D:\\Spring 2024\\264-ASP\\HomeWork\\Q4\\MovieApp\\MovieApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:12:08.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
